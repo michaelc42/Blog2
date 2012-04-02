@@ -1,0 +1,54 @@
+two controllers
+
+one for users not logged in
+one for users logged in
+
+homepage
+	you can view the homepage
+	you can view singe posts with comments
+	you can view the login screen
+	you can view the signup screen
+	non logged in users can comment
+
+one for users logged in
+	logged in users can post new blog posts
+	logged in users can delete posts, and comments
+	logged in users can log out
+	
+
+models
+homepage model
+	gets posts from database
+	gets comments from database
+	verifies login data
+	verifies create new user data
+	inserts new user data
+
+logged in users model
+	inserts new post data
+	deletes post data
+	deletes comment data
+
+views
+	homepage
+	         small login form
+	         display latest blogposts with a link to comments
+	         display pagination links to see older posts
+
+	large login page
+		username
+		password
+	create user page
+		first name
+		last name
+		username
+		pass1
+		pass2
+	
+	single blog post with comments
+		latest comments, pagination 10 comments per page
+		email
+		
+
+start with the homepage controller making a create user view, and  large log in view
+		

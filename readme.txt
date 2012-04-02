@@ -1,0 +1,1 @@
+http://localhost/apps/blog2/main

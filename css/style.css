@@ -1,0 +1,78 @@
+hr {
+    color:sienna;
+
+}
+
+p {
+    margin-left:20px;
+}
+
+body {
+    background-color: #FFFFCC;
+
+}
+
+#main_page{
+    background-color: #CC9999;
+    color: #660033;
+}
+
+#nav_bar{
+    background-color: #FFFFCC;
+    color: #CC3366;
+    border-style: dotted solid;
+    border-width: 5px;
+    margin: 15px 30px;
+    padding: 4px;
+}
+
+a:link {
+    color:#663366;
+
+}    
+
+a:visited {
+    color: #CC3366;
+
+}  
+
+a:hover {
+    color:#FF3366;
+
+} 
+
+a:active {
+    color: #660033;
+
+}
+
+h4 {
+    color: #CC3366;
+
+}
+
+p{
+    color: #660033;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
